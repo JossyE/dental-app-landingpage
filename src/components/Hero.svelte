@@ -9,7 +9,7 @@
 >
     <div class="flex flex-col flex-1 w-full relative z-10 pb-10 md:pb-14">
         <Header />
-        <div class="flex md:flex row flex-col gap-6 justify-between items-end flex-1 w-full px-4">
+        <div class="flex md:flex-row flex-col gap-6 justify-between items-end flex-1 w-full px-4">
 
             <div
                 class="flex flex-col gap-8 flex-1 text-white items-end justify-end px-4"
